@@ -186,4 +186,4 @@ Feel free to fork the repo, open issues, or submit pull requests if you'd like t
 
 If you found this helpful, don’t forget to ⭐ the repo and follow for more SQL-based data analysis projects!
 
-📂 To access the dataset and visuals used in this project, [check out this LinkedIn post](https://bit.ly/3U5zJ4K).
+📂 To access the dataset and visuals used in this project, [check out this LinkedIn post](https://tinyurl.com/Youtube-sql).
